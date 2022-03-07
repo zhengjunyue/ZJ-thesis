@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-This website contains a number of audio samples that complement the content of my doctoral thesis.
+This website contains ,,,
 
 In my thesis,,,
 
@@ -19,10 +19,15 @@ This is the front page of a website that is powered by the [academicpages templa
 Roadmap:
 ======
 [Abstract](https://github.com/academicpages/academicpages.github.io):The abstract of the thesis
+
 [Chapters/Chapter5](https://github.com/academicpages/academicpages.github.io):
+
 [Chapters/Chapter6](https://github.com/academicpages/academicpages.github.io):
+
 [Chapters/Chapter7](https://github.com/academicpages/academicpages.github.io):
+
 [Chapters/Chapter8](https://github.com/academicpages/academicpages.github.io):
+
 [Publication](https://github.com/academicpages/academicpages.github.io):The list of publications.
 
 
