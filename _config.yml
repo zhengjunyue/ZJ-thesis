@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "University of Sheffield"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4txi6M0AAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Zhengjun-Yue"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhengjun-yue-a313a9205/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "zhengjun-yue-a313a9205/"
+  orcid            : "http://orcid.org/0000-0002-1101-549X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
