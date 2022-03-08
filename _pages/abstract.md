@@ -1,3 +1,12 @@
+---
+title: "Abstract"
+permalink: /
+excerpt: "About my PhD thesis"
+author_profile: true
+redirect_from: 
+  - /abstract/
+  - /abstract.html
+---
 
 Abstract:
 ======
