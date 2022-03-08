@@ -1,11 +1,8 @@
 ---
+layout: archive
 title: "Abstract"
-permalink: /
-excerpt: "About my PhD thesis"
+permalink: /abstract/
 author_profile: true
-redirect_from: 
-  - /abstract/
-  - /abstract.html
 ---
 
 Abstract:
