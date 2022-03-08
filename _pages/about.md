@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "Continuous speech recognition for people with dysarthria"
