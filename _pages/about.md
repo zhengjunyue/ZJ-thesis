@@ -1,32 +1,6 @@
----
-permalink: /
-title: "Continuous speech recognition for people with dysarthria"
-excerpt: "About my PhD thesis"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-
-
-This website contains the content of my PhD thesis accompanied with my publications.
-
-In my thesis,,,
-
-
-Roadmap:
+Abstract:
 ======
-[Abstract](https://github.com/academicpages/academicpages.github.io):The abstract of the thesis
+Dysarthria is a motor speech disorder caused by damage to the nervous system. People with dysarthria often have poorer motor control of their speech articulators resulting in atypical speech. Consequently, the intelligibility of dysarthric speech is often affected and this could affect the communication ability of people with dysarthria, which may cause social exclusion. Dysarthria is also often associated with physical disabilities. This group of people, therefore, have a higher need for automation and voice-enabled interfaces that could improve their daily life. Automatic speech recognition (ASR) technology is becoming ever more ubiquitous. However, the performance on dysarthric speech still lags far behind the mainstream ASR systems designed for typical speech. The large systematic dysarthric and typical speech mismatch, the high speaker variability and the data scarcity make the task challenging.  Moreover, the focus on dysarthric speech recognition research has not moved from isolated word to more challenging connected speech scenarios yet. There is a clear need to improve continuous dysarthric speech recognition. 
 
-[Chapters/Chapter5](https://github.com/academicpages/academicpages.github.io): Baseline Continuous Dysarthric Speech Recognition System
-
-[Chapters/Chapter6](https://github.com/academicpages/academicpages.github.io): A Novel Speech Representation Learning Framework 
-
-[Chapters/Chapter7](https://github.com/academicpages/academicpages.github.io): Incorporating Articulatory Information
-
-[Chapters/Chapter8](https://github.com/academicpages/academicpages.github.io): Multimodal Acoustic-articulatory Speech Recognition Systems
-
-[Publication](https://github.com/academicpages/academicpages.github.io):The list of publications
-
-
+This thesis is the first to systematically investigate various methods for continuous dysarthric speech recognition. Experimental work conducted on the TORGO dysarthric corpus shows that the deployed approaches and the developed systems effectively improve the recognition performance. The key findings are as follows.  Firstly, applying an out-of-domain language model allows for a more reasonable decoding space for continuous dysarthric speech, leading to fairer performance. Secondly, incorporating features extracted from an autoencoder-bottleneck feature extractor which is jointly optimised with a speech recogniser is shown to effectively lead to better recognition performance. Employing the monophone regularisation as an auxiliary task can further benefit the performance. Thirdly, by incorporating real articulatory information alongside acoustic features, a multi-modal acoustic-articulatory system is demonstrated to achieve encouraging performance. The best feature fusion scheme is explored and shown to achieve better results. In conclusion, this thesis makes promising progress in improving continuous dysarthric speech recognition.
