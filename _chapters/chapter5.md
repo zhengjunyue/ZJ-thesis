@@ -1,8 +1,8 @@
 ---
-title: "Chapter 2"
-excerpt: "Sung Speech Intelligibility"
+title: "Chapter 5"
+excerpt: "Baseline Continuous Dysarthric Speech Recognition System"
 collection: portfolio
 ---
-# Sung Speech Intelligibility
+# Baseline Continuous Dysarthric Speech Recognition System
 
-Below, are included YouTube links to the mishearing samples presented in Section 2.2.
+This chapter presents a pilot study of the recent ADSR systems using the TORGO dysarthric database. 
