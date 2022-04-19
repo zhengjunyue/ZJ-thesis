@@ -13,14 +13,14 @@ This website contains the content of my PhD thesis accompanied with my publicati
 
 Roadmap:
 ======
-[Abstract](https://github.com/academicpages/academicpages.github.io): The abstract of the thesis.
+[Abstract](abstract.md): The abstract of the thesis.
 
-[Chapters/Chapter5](https://github.com/academicpages/academicpages.github.io): Baseline Continuous Dysarthric Speech Recognition System.
+[Chapters/Chapter5](chapters/chapter5/): Baseline Continuous Dysarthric Speech Recognition System.
 
-[Chapters/Chapter6](https://github.com/academicpages/academicpages.github.io): A Novel Speech Representation Learning Framework. 
+[Chapters/Chapter6](chapters/chapter6/): A Novel Speech Representation Learning Framework. 
 
-[Chapters/Chapter7](https://github.com/academicpages/academicpages.github.io): Incorporating Articulatory Information.
+[Chapters/Chapter7](chapters/chapter7/): Incorporating Articulatory Information.
 
-[Chapters/Chapter8](https://github.com/academicpages/academicpages.github.io): Multimodal Acoustic-articulatory Speech Recognition Systems.
+[Chapters/Chapter8](chapters/chapter8/): Multimodal Acoustic-articulatory Speech Recognition Systems.
 
-[Publication](https://github.com/academicpages/academicpages.github.io): The list of publications.
+[Publication](publications.md): The list of publications.
